@@ -1,11 +1,11 @@
 # HILL CIPHER
-HILL CIPHER
-EX. NO: 3 AIM:
- 
-
-IMPLEMENTATION OF HILL CIPHER
- 
-## To write a C program to implement the hill cipher substitution techniques.
+## EX. NO: 3 - HILL CIPHER
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
+## AIM:
+To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
@@ -111,7 +111,9 @@ return 0;
 }
 ```
 ## OUTPUT
-<img width="923" height="293" alt="Screenshot 2026-02-02 112252" src="https://github.com/user-attachments/assets/7b35a01e-b4d3-402b-8820-cd38a568b3e7" />
+
+<img width="342" height="124" alt="Screenshot 2026-04-27 094346" src="https://github.com/user-attachments/assets/83532584-320d-464c-a14b-fde95872bdd2" />
+
 
 ## RESULT
-Thus the program is executed successfully..
+The Hill Cipher algorithm was successfully implemented using a 3×3 key matrix
